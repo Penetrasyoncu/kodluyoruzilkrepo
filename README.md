@@ -1,4 +1,4 @@
-# Kodluyoruz Front-End 101 Eğitimleri
+# Kodluyoruz / Patika.Dev Eğitimleri
 Kodluyoruz.Org ve Patika.dev üzerinden aldığım tüm eğitimleri yayınlamak için oluşturduğum githup reposu
 
 ## Front-End 101
